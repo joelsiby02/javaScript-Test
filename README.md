@@ -14,15 +14,15 @@ Automatic color change for balance based on positive or negative balance
 
 **Static Demo:**
 
-![Static Demo](D:\javaScript-Test\images\1.png)
+![Static Demo](https://github.com/joelsiby02/javaScript-Test/blob/main/images/1.png)
 
 **'X' Delete feature:**
 
-![X feature](D:\javaScript-Test\images\2.png)
+![X feature](https://github.com/joelsiby02/javaScript-Test/blob/main/images/2.png)
 
 **Insert feature:**
 
-![Insert feature](D:\javaScript-Test\images\3.png)
+![Insert feature](https://github.com/joelsiby02/javaScript-Test/blob/main/images/3.png)
 
 
 How to Use
